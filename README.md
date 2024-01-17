@@ -1,3 +1,3 @@
 # SEW
 - Completed the assignment.
-- Please unzip file to see the code.
+- Please unzip `public.zip` file to see the code.
